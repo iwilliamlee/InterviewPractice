@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/lab8/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/string/is_unique/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/linked_list/remove_dups/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/stack_and_queue/three_in_one/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/math_logic/taxi_cab/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/recursion/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/recursion/shifted_index/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/create_bst_from_array/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/route_between_nodes/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/path_with_sum/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/recursion/triple_step/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/dynamic/robot_in_grid/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/dynamic/power_set/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/dynamic/recursive_multiply/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/binarytree_to_linkedlist/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="JUnit4">
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

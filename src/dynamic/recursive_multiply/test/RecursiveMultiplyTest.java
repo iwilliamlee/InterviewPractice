@@ -1,0 +1,13 @@
+import dynamic.recursive_multiply.RecursiveMultiply;
+import org.junit.Assert;
+import org.junit.Test;
+
+import static org.junit.Assert.*;
+
+public class RecursiveMultiplyTest {
+
+    @Test
+    public void recursiveMultipy() {
+
+    }
+}
