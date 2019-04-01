@@ -8,4 +8,6 @@ public class GraphNode {
     public GraphNode(int value) {
         this.value = value;
     }
+
+
 }

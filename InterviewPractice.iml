@@ -19,6 +19,10 @@
       <sourceFolder url="file://$MODULE_DIR$/src/dynamic/power_set/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/dynamic/recursive_multiply/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/binarytree_to_linkedlist/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/stack_and_queue/stack_from_scratch/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/stack_and_queue/queue_from_scratch/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/breadth_first/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/depth_first/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
