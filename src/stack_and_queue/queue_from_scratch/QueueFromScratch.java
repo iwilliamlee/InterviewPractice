@@ -29,7 +29,6 @@ public class QueueFromScratch<E> {
         }
     }
 
-
     public E poll() {
         if(head == null) {
             return null;
