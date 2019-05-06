@@ -2,54 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c246fc49-3c50-4b0c-8a7e-0d78d3c6c2ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/move_zeros_to_back/MoveZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/move_zeros_to_back/test/MoveZerosTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/LinkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/PrintUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic/coins/Coins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic/coins/test/CoinsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic/queens/Queens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic/queens/test/QueensTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linked_list/LinkedListReversal/LinkedListReversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linked_list/LinkedListReversal/test/LinkedListReversalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/real_interview/CityAttractions/CityAttractions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/real_interview/CityAttractions/test/CityAttractionsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/real_interview/ConnectFour/ConnectFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/real_interview/ConnectFour/test/ConnectFourTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/real_interview/HtmlSearch/HtmlSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/real_interview/HtmlSearch/test/HtmlSearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/real_interview/LegoBlocks/LegoBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/real_interview/LegoBlocks/test/LegoBlocksTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/real_interview/ManhattanPath/ManhattanPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/real_interview/ManhattanPath/test/ManhattanPathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/real_interview/paths_between_2_points/PathsBetweenTwoPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/real_interview/paths_between_2_points/test/PathsBetweenTwoPointsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/real_interview/work_scheduled/WorkScheduled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/real_interview/work_scheduled/test/WorkScheduledTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/permutations/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/permutations/test/PermutationsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_and_queue/queue_from_two_stacks/QueueFromStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_and_queue/queue_from_two_stacks/test/QueueFromStacksTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trees_and_graphs/common_ancestor/CommonAncestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trees_and_graphs/common_ancestor/test/CommonAncestorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trees_and_graphs/tree_with_depth/TreeWithDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trees_and_graphs/tree_with_depth/test/TreeWithDepthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees_and_graphs/bst_sequences/BstSequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees_and_graphs/check_balanced/CheckBalanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees_and_graphs/check_balanced/test/CheckBalancedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees_and_graphs/check_subtree/CheckSubTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees_and_graphs/check_subtree/test/CheckSubTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees_and_graphs/random_node/RandomBst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees_and_graphs/random_node/test/RandomBstTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InterviewPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewPractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewPractice/math_logic/taxi_cab/TaxiCab.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewPractice/stack_and_queue/queue_from_scratch/QueueFromScratch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterviewPractice/stack_and_queue/queue_from_scratch/QueueFromScratch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewPractice/stack_and_queue/stack_from_scratch/StackFromScratch$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewPractice/stack_and_queue/stack_from_scratch/StackFromScratch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/InterviewPractice/StackFromScratchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/InterviewPractice/StackFromScratchTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/InterviewPractice/TaxiCabTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/InterviewPractice/TaxiCabTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math_logic/taxi_cab/TaxiCab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/real_interview/taxi_cab/TaxiCab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math_logic/taxi_cab/test/TaxiCabTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/real_interview/taxi_cab/test/TaxiCabTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack_and_queue/queue_from_scratch/QueueFromScratch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack_and_queue/queue_from_scratch/QueueFromScratch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack_and_queue/stack_from_scratch/StackFromScratch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/real_interview/stack_from_scratch/StackFromScratch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack_and_queue/stack_from_scratch/test/StackFromScratchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/real_interview/stack_from_scratch/test/StackFromScratchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InterviewPractice/common/BST/BstNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterviewPractice/common/BST/BstNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/BST/BstNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/BST/BstNode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -158,37 +121,38 @@
     <session id="-925317271">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.4" value="7" />
           <entry key="project.open.time.6" value="3" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="59" />
+          <entry key="class" value="2" />
+          <entry key="java" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="59" />
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="class" value="1" />
           <entry key="dummy" value="1" />
-          <entry key="java" value="16596" />
+          <entry key="java" value="24681" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="16596" />
+          <entry key="JAVA" value="24681" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -197,101 +161,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dynamic/queens/Queens.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dynamic/recursive_multiply/test/RecursiveMultiplyTest.java">
+        <entry file="file://$PROJECT_DIR$/src/trees_and_graphs/check_balanced/CheckBalanced.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dynamic/recursive_multiply/RecursiveMultiply.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/recursion/permutations/Permutations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dynamic/coins/Coins.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-              <folding>
-                <element signature="e#779#780#0" expanded="true" />
-                <element signature="e#817#818#0" expanded="true" />
-              </folding>
+              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/dynamic/coins/test/CoinsTest.java">
+        <entry file="file://$PROJECT_DIR$/src/trees_and_graphs/check_balanced/test/CheckBalancedTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/recursion/permutations/test/PermutationsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dynamic/robot_in_grid/RobotInGrid.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dynamic/power_set/test/PowerSetTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dynamic/queens/test/QueensTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -311,6 +193,10 @@
     <findStrings>
       <find>visited</find>
       <find>system.</find>
+      <find>system.out</find>
+      <find>printbst</find>
+      <find>set</find>
+      <find>deleteMove</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -327,18 +213,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/trees_and_graphs/binarytree_to_linkedlist/BinaryTreeToLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/stack_and_queue/stack_from_scratch/StackFromScratch.java" />
-        <option value="$PROJECT_DIR$/src/stack_and_queue/stack_from_scratch/test/StackFromScratchTest.java" />
-        <option value="$PROJECT_DIR$/src/stack_and_queue/queue_from_scratch/test/QueueFromScratchTest.java" />
-        <option value="$PROJECT_DIR$/src/common/Graph/GraphNode.java" />
-        <option value="$PROJECT_DIR$/src/trees_and_graphs/breadth_first/BreadthFirst.java" />
-        <option value="$PROJECT_DIR$/src/trees_and_graphs/breadth_first/test/BreadthFirstTest.java" />
-        <option value="$PROJECT_DIR$/src/trees_and_graphs/depth_first/DepthFirstTest.java" />
-        <option value="$PROJECT_DIR$/src/trees_and_graphs/depth_first/DepthFirst.java" />
-        <option value="$PROJECT_DIR$/src/trees_and_graphs/depth_first/test/DepthFirstTest.java" />
-        <option value="$PROJECT_DIR$/src/stack_and_queue/queue_from_scratch/QueueFromScratch.java" />
-        <option value="$PROJECT_DIR$/src/stack_and_queue/queue_from_two_stacks/QueueFromStacks.java" />
         <option value="$PROJECT_DIR$/src/stack_and_queue/queue_from_two_stacks/test/QueueFromStacksTest.java" />
         <option value="$PROJECT_DIR$/src/linked_list/LinkedListReversal/LinkedListReversal.java" />
         <option value="$PROJECT_DIR$/src/common/LinkedList/Node.java" />
@@ -378,6 +252,18 @@
         <option value="$PROJECT_DIR$/src/dynamic/queens/test/QueensTest.java" />
         <option value="$PROJECT_DIR$/src/dynamic/coins/Coins.java" />
         <option value="$PROJECT_DIR$/src/dynamic/coins/test/CoinsTest.java" />
+        <option value="$PROJECT_DIR$/src/dynamic/robot_in_grid/RobotInGrid.java" />
+        <option value="$PROJECT_DIR$/src/common/BST/BstNode.java" />
+        <option value="$PROJECT_DIR$/src/trees_and_graphs/check_subtree/CheckSubTreeSolution.java" />
+        <option value="$PROJECT_DIR$/src/trees_and_graphs/check_subtree/test/CheckSubTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/trees_and_graphs/random_node/test/RandomBstTest.java" />
+        <option value="$PROJECT_DIR$/src/trees_and_graphs/random_node/RandomBst.java" />
+        <option value="$PROJECT_DIR$/src/lab/Automobile.java" />
+        <option value="$PROJECT_DIR$/src/lab/test/AutomobileTest.java" />
+        <option value="$PROJECT_DIR$/src/trees_and_graphs/bst_sequences/BstSequences.java" />
+        <option value="$PROJECT_DIR$/src/trees_and_graphs/check_subtree/CheckSubTree.java" />
+        <option value="$PROJECT_DIR$/src/trees_and_graphs/check_balanced/CheckBalanced.java" />
+        <option value="$PROJECT_DIR$/src/trees_and_graphs/check_balanced/test/CheckBalancedTest.java" />
       </list>
     </option>
   </component>
@@ -388,10 +274,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="60" />
-    <option name="y" value="67" />
-    <option name="width" value="1137" />
-    <option name="height" value="966" />
+    <option name="x" value="3" />
+    <option name="y" value="24" />
+    <option name="width" value="992" />
+    <option name="height" value="970" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -399,7 +285,7 @@
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <showModules PackagesPane="false" />
-      <hideEmptyPackages PackagesPane="false" />
+      <hideEmptyPackages PackagesPane="false" ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -419,33 +305,20 @@
               <item name="InterviewPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="InterviewPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamic" type="462c0819:PsiDirectoryNode" />
+              <item name="trees_and_graphs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="InterviewPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="InterviewPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamic" type="462c0819:PsiDirectoryNode" />
-              <item name="coins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterviewPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterviewPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamic" type="462c0819:PsiDirectoryNode" />
-              <item name="coins" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterviewPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterviewPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="recursion" type="462c0819:PsiDirectoryNode" />
+              <item name="trees_and_graphs" type="462c0819:PsiDirectoryNode" />
+              <item name="check_balanced" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -466,7 +339,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -474,10 +346,10 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/iwilliamlee/Desktop/Repos/InterviewPractice/src/stack_and_queue/queue_from_two_stacks/QueueFromStacks.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555791889678" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557173973026" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/dynamic/coins/test" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/trees_and_graphs/check_balanced/test" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -515,61 +387,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CoinsTest">
-    <configuration name="CoinsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.AutomobileTest">
+    <configuration name="AutomobileTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewPractice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CoinsTest" />
+      <option name="MAIN_CLASS_NAME" value="AutomobileTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConnectFourTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RandomBstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewPractice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ConnectFourTest" />
+      <option name="MAIN_CLASS_NAME" value="RandomBstTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HtmlSearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RandomBstTest.TestDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewPractice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HtmlSearchTest" />
+      <option name="MAIN_CLASS_NAME" value="RandomBstTest" />
+      <option name="METHOD_NAME" value="TestDelete" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManhattanPathTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RandomBstTest.TestFind" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewPractice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ManhattanPathTest" />
+      <option name="MAIN_CLASS_NAME" value="RandomBstTest" />
+      <option name="METHOD_NAME" value="TestFind" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueensTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RandomBstTest.TestPrint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewPractice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="QueensTest" />
+      <option name="MAIN_CLASS_NAME" value="RandomBstTest" />
+      <option name="METHOD_NAME" value="TestPrint" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ConnectFourTest" />
-      <item itemvalue="JUnit.ManhattanPathTest" />
-      <item itemvalue="JUnit.HtmlSearchTest" />
-      <item itemvalue="JUnit.QueensTest" />
-      <item itemvalue="JUnit.CoinsTest" />
+      <item itemvalue="JUnit.RandomBstTest" />
+      <item itemvalue="JUnit.RandomBstTest.TestFind" />
+      <item itemvalue="JUnit.RandomBstTest.TestPrint" />
+      <item itemvalue="JUnit.RandomBstTest.TestDelete" />
+      <item itemvalue="JUnit.AutomobileTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CoinsTest" />
-        <item itemvalue="JUnit.QueensTest" />
-        <item itemvalue="JUnit.ConnectFourTest" />
-        <item itemvalue="JUnit.HtmlSearchTest" />
-        <item itemvalue="JUnit.ManhattanPathTest" />
+        <item itemvalue="JUnit.AutomobileTest" />
+        <item itemvalue="JUnit.RandomBstTest.TestDelete" />
+        <item itemvalue="JUnit.RandomBstTest.TestPrint" />
+        <item itemvalue="JUnit.RandomBstTest.TestFind" />
+        <item itemvalue="JUnit.RandomBstTest" />
       </list>
     </recent_temporary>
   </component>
@@ -587,42 +465,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="QueensTest - 2019.04.20 at 12h 19m 15s.xml">
-      <configuration name="QueensTest" configurationId="JUnit" />
+    <history-entry file="RandomBstTest_TestDelete - 2019.04.23 at 13h 34m 58s.xml">
+      <configuration name="RandomBstTest.TestDelete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueensTest - 2019.04.20 at 12h 19m 22s.xml">
-      <configuration name="QueensTest" configurationId="JUnit" />
+    <history-entry file="RandomBstTest_TestDelete - 2019.04.23 at 13h 36m 02s.xml">
+      <configuration name="RandomBstTest.TestDelete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueensTest - 2019.04.20 at 12h 20m 23s.xml">
-      <configuration name="QueensTest" configurationId="JUnit" />
+    <history-entry file="RandomBstTest_TestDelete - 2019.04.23 at 13h 36m 15s.xml">
+      <configuration name="RandomBstTest.TestDelete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueensTest - 2019.04.20 at 12h 20m 44s.xml">
-      <configuration name="QueensTest" configurationId="JUnit" />
+    <history-entry file="RandomBstTest_TestDelete - 2019.04.23 at 13h 36m 40s.xml">
+      <configuration name="RandomBstTest.TestDelete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueensTest - 2019.04.20 at 12h 20m 52s.xml">
-      <configuration name="QueensTest" configurationId="JUnit" />
+    <history-entry file="AutomobileTest - 2019.04.23 at 18h 19m 50s.xml">
+      <configuration name="AutomobileTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueensTest - 2019.04.20 at 13h 14m 55s.xml">
-      <configuration name="QueensTest" configurationId="JUnit" />
+    <history-entry file="AutomobileTest - 2019.04.23 at 18h 20m 12s.xml">
+      <configuration name="AutomobileTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CoinsTest - 2019.04.20 at 13h 14m 58s.xml">
-      <configuration name="CoinsTest" configurationId="JUnit" />
+    <history-entry file="AutomobileTest - 2019.04.23 at 18h 21m 42s.xml">
+      <configuration name="AutomobileTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CoinsTest - 2019.04.20 at 13h 15m 06s.xml">
-      <configuration name="CoinsTest" configurationId="JUnit" />
+    <history-entry file="AutomobileTest - 2019.04.23 at 18h 22m 25s.xml">
+      <configuration name="AutomobileTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CoinsTest - 2019.04.20 at 13h 15m 11s.xml">
-      <configuration name="CoinsTest" configurationId="JUnit" />
+    <history-entry file="AutomobileTest - 2019.04.23 at 18h 22m 34s.xml">
+      <configuration name="AutomobileTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CoinsTest - 2019.04.20 at 13h 22m 40s.xml">
-      <configuration name="CoinsTest" configurationId="JUnit" />
+    <history-entry file="AutomobileTest - 2019.04.23 at 18h 24m 09s.xml">
+      <configuration name="AutomobileTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="1137" height="966" extended-state="0" />
+    <frame x="3" y="24" width="992" height="970" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34155253" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26210526" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -631,7 +509,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32947975" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32036614" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32004556" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39909297" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -639,7 +517,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32608697" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3257403" />
       <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.328" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -655,114 +533,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/stack_and_queue/queue_from_two_stacks/QueueFromStacks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/BST/BstNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/trees_and_graphs/tree_with_depth/test/trees_and_graphs/tree_with_depth/TreeWithDepthTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/array/move_zeros_to_back/test/MoveZerosTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/move_zeros_to_back/MoveZeros.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/trees_and_graphs/tree_with_depth/test/TreeWithDepthTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack_and_queue/queue_from_two_stacks/test/QueueFromStacksTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linked_list/LinkedListReversal/LinkedListReversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/LinkedList/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/BST/BST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/recursion/package-info.java" />
-    <entry file="file://$PROJECT_DIR$/src/linked_list/LinkedListReversal/test/LinkedListReversalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/trees_and_graphs/tree_with_depth/TreeWithDepth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/real_interview/work_scheduled/WorkScheduled.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/real_interview/work_scheduled/test/WorkScheduledTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/recursion/shifted_index/test/ShiftedIndexTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/real_interview/LegosBuildingBlocks.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="93" column="23" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/trees_and_graphs/path_with_sum/PathWithSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -924,13 +695,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamic/queens/test/QueensTest.java">
+    <entry file="file://$PROJECT_DIR$/src/dynamic/coins/test/CoinsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic/coins/Coins.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/recursion/permutations/Permutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic/recursive_multiply/RecursiveMultiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic/recursive_multiply/test/RecursiveMultiplyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic/queens/Queens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/recursion/permutations/test/PermutationsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -948,59 +758,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamic/queens/Queens.java">
+    <entry file="file://$PROJECT_DIR$/src/dynamic/queens/test/QueensTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamic/recursive_multiply/test/RecursiveMultiplyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamic/recursive_multiply/RecursiveMultiply.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/recursion/permutations/test/PermutationsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/recursion/permutations/Permutations.java">
+    <entry file="file://$PROJECT_DIR$/src/array/move_zeros_to_back/test/MoveZerosTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamic/coins/Coins.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="e#779#780#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="190">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamic/coins/test/CoinsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/trees_and_graphs/check_subtree/CheckSubTreeSolution.java" />
+    <entry file="file://$PROJECT_DIR$/src/trees_and_graphs/check_subtree/test/CheckSubTreeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="409">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/BST/BstNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trees_and_graphs/create_bst_from_array/CreateBst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trees_and_graphs/create_bst_from_array/test/CreateBstTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" selection-start-line="10" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/Automobile.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab/test/AutomobileTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/trees_and_graphs/check_subtree/CheckSubTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trees_and_graphs/bst_sequences/BstSequences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trees_and_graphs/random_node/RandomBst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="102" column="8" selection-start-line="102" selection-start-column="8" selection-end-line="102" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trees_and_graphs/random_node/test/RandomBstTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linked_list/remove_dups/RemoveDups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linked_list/LinkedListReversal/LinkedListReversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trees_and_graphs/check_balanced/CheckBalanced.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trees_and_graphs/check_balanced/test/CheckBalancedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>

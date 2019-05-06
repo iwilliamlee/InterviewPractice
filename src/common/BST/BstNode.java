@@ -10,5 +10,10 @@ public class BstNode {
         this.value = value;
     }
 
+    public void setLeftRight(BstNode left, BstNode right) {
+        this.left = left;
+        this.right = right;
+    }
+
 
 }

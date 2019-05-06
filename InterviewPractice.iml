@@ -36,6 +36,11 @@
       <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/common_ancestor/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/dynamic/queens/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/dynamic/coins/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/check_subtree/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/random_node/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lab/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/bst_sequences/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/check_balanced/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
