@@ -7,7 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/string/is_unique/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/linked_list/remove_dups/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/stack_and_queue/three_in_one/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/real_interview/taxi_cab/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/real_interview/PkcSecurity/taxi_cab/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/recursion/shifted_index/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/create_bst_from_array/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/route_between_nodes/test" isTestSource="true" />
@@ -16,7 +16,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/dynamic/power_set/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/dynamic/recursive_multiply/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/binarytree_to_linkedlist/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/real_interview/stack_from_scratch/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/real_interview/bird/stack_from_scratch/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/stack_and_queue/queue_from_scratch/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/breadth_first/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/depth_first/test" isTestSource="true" />
@@ -24,15 +24,15 @@
       <sourceFolder url="file://$MODULE_DIR$/src/linked_list/LinkedListReversal/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/tree_with_depth/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/array/move_zeros_to_back/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/real_interview/work_scheduled/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/real_interview/atlassian/work_scheduled/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/recursion/permutations/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/visit_hotel_beauty/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/real_interview/paths_between_2_points/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/real_interview/LegoBlocks/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/real_interview/ConnectFour/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/real_interview/ManhattanPath/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/real_interview/HtmlSearch/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/real_interview/CityAttractions/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/real_interview/google/paths_between_2_points/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/real_interview/google/LegoBlocks/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/real_interview/google/ConnectFour/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/real_interview/google/ManhattanPath/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/real_interview/google/HtmlSearch/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/real_interview/atlassian/CityAttractions/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/common_ancestor/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/dynamic/queens/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/dynamic/coins/test" isTestSource="true" />
@@ -41,6 +41,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src/lab/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/bst_sequences/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/trees_and_graphs/check_balanced/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/dynamic/magic_index/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/real_interview/amazon/michelle_substring/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

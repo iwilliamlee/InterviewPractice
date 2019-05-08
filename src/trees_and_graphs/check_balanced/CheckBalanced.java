@@ -4,7 +4,7 @@ import common.BST.BstNode;
 
 public class CheckBalanced {
 
-    private int checkBalanceRecurse(BstNode node) {
+    private static int checkBalanceRecurse(BstNode node) {
 
         //If we're at null node, return no height
         if(node == null) {
@@ -22,11 +22,11 @@ public class CheckBalanced {
             return -1;
         }
 
-        return (rightHeight > leftHeight) ? rightHeight : leftHeight;
+        return (rightHeight > leftHeight) ? ++rightHeight : ++leftHeight;
 
     }
 
-    public boolean checkBalanced(BstNode node) {
+    public static boolean checkBalanced(BstNode node) {
         if(node == null) {return true;}
         if(checkBalanceRecurse(node) == -1) {
             return false;
